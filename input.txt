@@ -1,0 +1,10 @@
+{integer x ;
+set x = 1 ;}
+integer x ;
+set x = 1 ;
+()
+122454
+gvhhv
+enduntil
+do 
+yes
